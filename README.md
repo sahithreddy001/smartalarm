@@ -1,1 +1,1 @@
-# smartalarm
+Smart alarm is an android application which is built in android studio. The alarm goes on at the set time and does not turn off till the light in the room is switched on for five minutes. The ambient light sensor in an android phone is used.
